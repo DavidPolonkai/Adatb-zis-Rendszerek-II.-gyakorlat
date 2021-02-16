@@ -1,0 +1,1 @@
+# Adatb-zis-Rendszerek-II.-gyakorlat
