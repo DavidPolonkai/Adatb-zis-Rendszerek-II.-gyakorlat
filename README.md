@@ -1,1 +1,1 @@
-# Adatb-zis-Rendszerek-II.-gyakorlat
+# Adatbázis rendszerek II. gyakorlat
